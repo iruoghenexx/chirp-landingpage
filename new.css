@@ -1,0 +1,20 @@
+/* Medium Devices */
+@media(max-width:991px){
+    .hero_details{
+        width: 100%;
+        order: 3;
+        /* order: 1; */
+    }
+
+    .hero_image{
+        width: 100%;
+        order: 2;
+        margin-bottom: 40px;
+        /* order: 1; */
+    }
+}
+
+/* Small Devices */
+@media(max-width:767px){
+
+}
